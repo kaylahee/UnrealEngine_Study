@@ -1,0 +1,9 @@
+﻿  Compiling game modules for hot reload
+  Performing 3 actions (13 in parallel)
+  ABCharacterWidget.cpp
+  [2/3] Link UE4Editor-ArenaBattle-5356.dll
+  [3/3] Link UE4Editor-ArenaBattle-5356.lib
+     C:\Users\kayla\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-5356.lib 라이브러리 및 C:\Users\kayla\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-5356.exp 개체를 생성하고 있습니다.
+     C:\Users\kayla\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-5356.suppressed.lib 라이브러리 및 C:\Users\kayla\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-5356.suppressed.exp 개체를 생성하고 있습니다.
+  Deploying ArenaBattleEditor Win64 Development...
+  Total build time: 3.63 seconds (Local executor: 3.09 seconds)
