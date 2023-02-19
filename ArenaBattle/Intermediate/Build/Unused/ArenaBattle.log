@@ -1,9 +1,15 @@
-﻿  Compiling game modules for hot reload
-  Performing 3 actions (13 in parallel)
-  ABCharacterWidget.cpp
-  [2/3] Link UE4Editor-ArenaBattle-5356.dll
-  [3/3] Link UE4Editor-ArenaBattle-5356.lib
-     C:\Users\kayla\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-5356.lib 라이브러리 및 C:\Users\kayla\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-5356.exp 개체를 생성하고 있습니다.
-     C:\Users\kayla\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-5356.suppressed.lib 라이브러리 및 C:\Users\kayla\Documents\Unreal Projects\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-5356.suppressed.exp 개체를 생성하고 있습니다.
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading ArenaBattleEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Parsing headers for ArenaBattleEditor
+    Running UnrealHeaderTool "C:\Users\kayla\Documents\GitHub\UnrealEngine_Study\ArenaBattle\ArenaBattle.uproject" "C:\Users\kayla\Documents\GitHub\UnrealEngine_Study\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ArenaBattleEditor in 4.9097514 seconds
+  Performing 4 actions (13 in parallel)
+  BTTask_TurnToTarget.gen.cpp
+  BTTask_TurnToTarget.cpp
+  [3/4] Link UE4Editor-ArenaBattle-3092.dll
+  [4/4] Link UE4Editor-ArenaBattle-3092.lib
+     C:\Users\kayla\Documents\GitHub\UnrealEngine_Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-3092.lib 라이브러리 및 C:\Users\kayla\Documents\GitHub\UnrealEngine_Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-3092.exp 개체를 생성하고 있습니다.
+     C:\Users\kayla\Documents\GitHub\UnrealEngine_Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-3092.suppressed.lib 라이브러리 및 C:\Users\kayla\Documents\GitHub\UnrealEngine_Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArenaBattle-3092.suppressed.exp 개체를 생성하고 있습니다.
   Deploying ArenaBattleEditor Win64 Development...
-  Total build time: 3.63 seconds (Local executor: 3.09 seconds)
+  Total build time: 13.28 seconds (Local executor: 4.85 seconds)
